@@ -1,0 +1,17 @@
+lead_id,name,email,npi,taxonomy,state
+L001,alice smith,alice@example.com,1000000000,207R00000X,NY
+L002,bob smith,bob@example.com,1000000010,207R00000X,CA
+L003,carol smith,carol@example.com,1000000016,208D00000X,NY
+L004,dan smith,dan@example.com,1000000025,207Q00000X,TX
+L005,erin smith,erin@example.com,1000000030,208D00000X,TX
+L006,frank smith,frank@example.com,1000000036,208D00000X,TX
+L007,grace smith,grace@example.com,1000000044,207R00000X,CA
+L008,heidi smith,heidi@example.com,1000000050,208D00000X,TX
+L009,ivan smith,ivan@example.com,1000000056,207Q00000X,FL
+L010,judy smith,judy@example.com,1000000066,208D00000X,NY
+L011,kyle smith,kyle@example.com,1000000073,207R00000X,CA
+L012,laura smith,laura@example.com,1000000077,207Q00000X,TX
+L013,mike smith,mike@example.com,1000000088,208D00000X,CA
+L014,nina smith,nina@example.com,1000000094,207Q00000X,TX
+L015,oscar smith,oscar@example.com,1000000101,207Q00000X,TX
+L016,pat smith,pat@example.com,1000000105,207Q00000X,TX
